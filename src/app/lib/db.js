@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const MONGODB_URI = "mongodb://localhost:27017/task_manager"; //Local MongoDB Compass
+const MONGODB_URI = process.env.MONGODB_URI; //Local MongoDB Compass
 
 const connectDB = async () => {
   if (mongoose.connections[0].readyState) {
