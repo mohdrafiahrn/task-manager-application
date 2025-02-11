@@ -25,7 +25,7 @@ Tech Stack
 - **Frontend:** Next.js (App Router) + Material UI  
 - **Backend:** Next.js Server Actions  
 - **Database:** MongoDB (Compass)  
-- **Deployment:** Vercel  
+- **Deployment:** https://task-manager-application-lime.vercel.app/  
 - **Code Repository:** Available on GitHub  
 
 Installation & Setup
