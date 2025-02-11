@@ -87,8 +87,8 @@ Contact
 For any queries, feel free to reach out:
 ----------------------------------------
 
-📧 Your Email: mohd.rafiahrn@gmail.com
+📧 Email: mohd.rafiahrn@gmail.com
 🔗 GitHub: Your GitHub Profile
 
-📧 Your Email: mohd.rafi209993@gmail.com
+📧 Email: mohd.rafi209993@gmail.com
 🔗 GitHub: Your GitHub Profile
