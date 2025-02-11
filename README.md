@@ -88,7 +88,7 @@ For any queries, feel free to reach out:
 ----------------------------------------
 
 📧 Email: mohd.rafiahrn@gmail.com
-🔗 GitHub: Your GitHub Profile
+🔗 GitHub: [Your GitHub Profile](https://github.com/mohdrafiahrn/task-manager-application)
 
 📧 Email: mohd.rafi209993@gmail.com
-🔗 GitHub: Your GitHub Profile
+🔗 GitHub: [Your GitHub Profile](https://github.com/mohammadrafi-ahrn/)
